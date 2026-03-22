@@ -1,2 +1,2 @@
-# firs-repo
+# first-repo
 first repo for learning
